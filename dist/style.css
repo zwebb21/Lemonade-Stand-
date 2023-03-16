@@ -12,6 +12,15 @@ height: 900px;
     
     }
 
+
+
+
+    .box-3{
+
+        height:2200px;
+        
+        }
+
 .rounded-full{
 background-color: rgb(255, 174, 0);
 
@@ -35,10 +44,8 @@ justify-content: center;
     }
 
     #line-1{
-
-
-margin-top: 140px;
-
+margin-top: 240px;
+padding: 20px;
     }
 
 
