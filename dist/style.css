@@ -1,100 +1,126 @@
-.box-1{
+.box-1 {
 
-height: 900px;
+  height: 900px;
+
+}
+.box-2 {
+
+  height: 1800px;
+
+}
+
+.box-3 {
+  /* This controls the length of the green bg in our type container - for all three products:lemonades,acai,tapiocca, */
+  height: 7500px;
+
+}
+
+.row img{
+
+
+
+height: 600px;
 
 }
 
 
 
-.box-2{
-
-    height: 1800px;
-    
-    }
 
 
 
 
-    .box-3{
 
-        height:3500px;
-        
-        }
-
-.rounded-full{
-background-color: rgb(255, 174, 0);
+.rounded-full {
+  background-color: rgb(255, 174, 0);
 
 
 }
 
-.col-12{
+.col-12 {
 
-display: flex;
-flex-direction: row;
-justify-content: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 
 }
 
-.col-4{
+.col-4 {
 
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    
-    }
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 
-    #line-1{
-margin-top: 240px;
-padding: 20px;
-    }
+}
 
 
-    .nav{
+.nav {
+  
+  display: inline;
 
-display: inline;
-
-    }
+}
 
 
-    a {
+a {
+  
+  text-decoration: none;
+  color: black;
 
-text-decoration: none;
-color: black;
-
-    }
+}
 
 
 
-    .list-group {
-display: flex;
-flex-direction: row;
-justify-items: center;      
+.list-group {
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
 
-width: 38rem;
-color: rgb(133, 163, 43);
+  width: 38rem;
+  color: rgb(133, 163, 43);
 
-    }
-
-
-    #pricing{
-       padding: 24px;
-
-
-    }
+}
 
 
 
-    #Types {
-
-        background: rgb(194,255,146);
-        background: linear-gradient(0deg, rgba(194,255,146,1) 23%, rgba(184,255,143,1) 64%, rgba(0,255,85,1) 100%);
-
-    }
 
 
-    #acai-header{
 
 
-color:rgb(38, 38, 38)
 
-    }
+
+
+
+
+
+
+
+
+
+#line-1 {
+  margin-top: 240px;
+  padding: 20px;
+}
+
+
+
+
+#pricing {
+  padding: 24px;
+
+
+}
+
+
+
+#Types {
+
+  background: rgb(194, 255, 146);
+  background: linear-gradient(0deg, rgba(194, 255, 146, 1) 23%, rgba(184, 255, 143, 1) 64%, rgba(0, 255, 85, 1) 100%);
+
+}
+
+
+#acai-header {
+
+
+  color: rgb(38, 38, 38)
+}
