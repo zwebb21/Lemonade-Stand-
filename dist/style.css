@@ -142,12 +142,52 @@ text-align: center;
 
 #acai-header {
 
-
-  color: rgb(38, 38, 38)
+  font-family: 'Staatliches', cursive;
+  color: rgb(46, 110, 61)
 }
 
 
 #Hero-Heading{
   font-family: 'Staatliches', cursive;
+  
+}
 
+
+#Membership-Header{
+  
+  
+  font-family: 'Staatliches', cursive;
+
+
+
+}
+
+
+#item-prices{
+
+color: rgb(0, 0, 0);
+font-size: 1.35rem;
+font-weight: 500;
+letter-spacing: 0.12rem;
+
+font-family: 'Staatliches', cursive;
+
+}
+
+#about-us-paragraphs{
+padding: 54px;
+letter-spacing: 0.03rem;
+
+
+}
+
+
+
+#hero-card-text{
+
+  margin-top: 17px;
+  font-family: 'Bebas Neue', cursive;
+  
+  letter-spacing: 0.08rem;
+  color: orange;
 }
