@@ -17,7 +17,7 @@ height: 900px;
 
     .box-3{
 
-        height:2200px;
+        height:3500px;
         
         }
 
@@ -79,5 +79,22 @@ color: rgb(133, 163, 43);
     #pricing{
        padding: 24px;
 
+
+    }
+
+
+
+    #Types {
+
+        background: rgb(194,255,146);
+        background: linear-gradient(0deg, rgba(194,255,146,1) 23%, rgba(184,255,143,1) 64%, rgba(0,255,85,1) 100%);
+
+    }
+
+
+    #acai-header{
+
+
+color:rgb(38, 38, 38)
 
     }
